@@ -1,1 +1,3 @@
-content of 2020-June-21-Another-Post.md
+This is just a video. Do not watch it:
+
+<Youtube videoId="ut0pk7GqV0Y" /
