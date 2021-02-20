@@ -14,5 +14,13 @@
     "content": "This is the second comment",
     "createdAt": 1613856806676,
     "id": "VZUE3fp8sIxY2WSGL06PZ4L4EecVuX"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "All good things are three",
+    "createdAt": 1613856841713,
+    "id": "SYHw2-IyeXZWN66nG8OyQk37_q8CTn"
   }
 ]
